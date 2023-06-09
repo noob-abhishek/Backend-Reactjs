@@ -1,7 +1,4 @@
-# FullStack Social Media App
-
-Build a COMPLETE Fullstack Responsive MERN App with Auth, Likes, Dark Mode | React, MongoDB, MUI
-
-Video: https://www.youtube.com/watch?v=K8YELRmUb5o
-
-For all related questions and discussions about this project, check out the discord: https://discord.gg/2FfPeEk2mX
+Note:- Create .env file in your server folder which specify,
+Mongo_Url = " " // for connecting your project with mongo atlas
+Port = 3001 // specify any port you want to use
+JWT_SECRET  = "anyRandomString" // 
